@@ -35,7 +35,7 @@ function loadExternalResource(url, type) {
 		initWidget({
 			waifuPath: tips_path + "waifu-tips.min.json",
 			apiPath: "https://cdn.jsdelivr.net/gh/BaiYang233/live2d@1.0.5/live2d_api/",
-			//cdnPath: "https://cdn.jsdelivr.net/gh/BaiYang233/live2d@1.0.5/live2d_api/"
+			cdnPath: "https://cdn.jsdelivr.net/gh/BaiYang233/live2d@1.0.5/live2d_api/"
 		});
 	});
 console.log(`
